@@ -14,6 +14,10 @@ public class Employee {
     return name;
 	}
 
+  public Integer getAge() {
+	  return age;
+  }
+
 	public Double getSalary() {
     return salary;
 	}
